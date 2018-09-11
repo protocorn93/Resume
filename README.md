@@ -54,7 +54,7 @@
     - Gesture Video
 - **2018.09.01**
   - 커넥트 재단에서 운영하는 [부스트코스](https://www.edwith.org/boostcourse-ios) **에이스 과정 스터디 팀장**으로 수료
-    - 우수 스터디로 커넥트 재단 요청으로 인터뷰 진행
+    - 우수 스터디로 커넥트 재단 요청으로 인터뷰 진행 ([참고자료](http://naver.me/xDbYJM7J))
 
 ---
 
