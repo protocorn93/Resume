@@ -1,6 +1,6 @@
 ##  이동건
 
-**2019년 9월 졸업 예정입니다.**
+**2019년 2월 졸업 예정입니다.**
 
 현재 iOS를 공부하며 블로그를 운영중입니다.
 
@@ -29,7 +29,7 @@
 
 #### 학력
 
-**경기대학교** : 2012.03 ~ 재학중 (2019.09 졸업 예정)
+**경기대학교** : 2012.03 ~ 재학중 (2019.02 졸업 예정)
 
 **컴퓨터과학과** : 프로그래밍 언어론, 운영체제, 데이터베이스, 네트워크, 자료구조 등 전공 과목 이수
 
@@ -54,7 +54,7 @@
     - Gesture Video
 - **2018.09.01**
   - 커넥트 재단에서 운영하는 [부스트코스](https://www.edwith.org/boostcourse-ios) **에이스 과정 스터디 팀장**으로 수료
-    - 우수 스터디로 커넥트 재단 요청으로 인터뷰 진행
+    - 우수 스터디 인터뷰 진행 ([참고자료](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16674489&memberNo=34635212))
 
 ---
 
@@ -94,6 +94,12 @@
 - `Delegation `, `Singleton`
 - 시도한 아키텍쳐 : `MVP`
 
+#### 공부한 내용 정리
+
+- App Extension Programming Guide for iOS
+  - [Essential](https://ehdrjsdlzzzz.github.io/2018/10/03/App-Extension-Programming-Guide-1/)
+  - [Essential - Handling Common Scenarios](https://ehdrjsdlzzzz.github.io/2018/10/09/App-Extension-Programming-Guide-2/)
+
 #### 사용한 라이브러리
 
 - [`Kanna`](https://github.com/tid-kijyun/Kanna) - https://github.com/users/ehdrjsdlzzzz/contributions 로부터 HTML을 파싱해오기 위해 사용
@@ -102,7 +108,7 @@
 #### 문제점
 
 - 웹 브라우저에선 00:00 이후 다음 날 컨트리뷰션 도트를 바로 확인 가능하지만 앱에선 GMT 시간 차로 오전 9시가 되어서야 그날의 도트를 받아올 수 있음.
-  - 이 문제를 해결하기 위해 많은 노력을 해보았으나 실패
+  - 이 문제를 해결하기 위해 많은 노력을 해보았으나 해결하지 못함
   - 확인해본 결과 모바일 크롬이나 사파리에서도 동일한 이슈가 발생한 것으로 모바일에서 요청한 것에 대한 깃헙 서버의 응답에 이슈가 있는 것으로 판단하였음.
 
 #### 스크린샷
@@ -119,3 +125,6 @@
 
 <img src="./images/NotificationAlert.png">
 
+**Version 2.0 - Widget** 
+
+<img src="./images/Widget.png" width="300">
