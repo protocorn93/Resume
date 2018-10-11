@@ -84,10 +84,11 @@
 
 1. 실시간 Contribution 확인 가능
 2. 원하는 시간에 알람을 받아 금일 커밋을 진행하였는지 확인 가능
+3. 투데이 익스텐션 타겟을 사용해 위젯에서 이번주 커밋 정보와 알람 등록 시간을 확인 가능
 
 #### 사용한 기술
 
-- `Swift4`, `Xcode9`, `UserNotifications`, `Error Handling`, `Localizing`, `Networking`, `UIApplicationShortCuts`
+- `Swift4`, `Xcode9`, `UserNotifications`, `Error Handling`, `Localizing`, `Networking`, `UIApplicationShortCuts`, `Today Extensions`
 
 #### 사용한 아키텍쳐
 
@@ -115,16 +116,16 @@
 
 **메인**
 
-<img src="./images/Main.png">
+<img src="./images/Main.png" width="500">
 
 **알람등록**
 
-<img src="./images/Notification.png">
+<img src="./images/Notification.png" width="600">
 
 **알람**
 
-<img src="./images/NotificationAlert.png">
+<img src="./images/NotificationAlert.png" width="300">
 
 **Version 2.0 - Widget** 
 
-<img src="./images/Widget.png" width="300">
+<img src="./images/Widget.png" width="200">
