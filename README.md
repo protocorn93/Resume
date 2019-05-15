@@ -6,7 +6,7 @@
 
 - blog
   - http://baked-corn.tistory.com
-  - https://ehdrjsdlzzzz.github.io (기존의 티스토리에서 이전 중입니다.)
+  - https://ehdrjsdlzzzz.github.io
 - [Github](https://github.com/ehdrjsdlzzzz)
 
 ---
