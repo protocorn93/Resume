@@ -74,6 +74,7 @@
 **1일 1커밋을 실천하려는 개발자들을 위한 어플리케이션**
 
 > 현재는 앱스토어에서 내려간 상태
+
 [레포지터리](https://github.com/ehdrjsdlzzzz/GitBingo)
 
 
