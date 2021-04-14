@@ -4,7 +4,7 @@
 
 - blog
   - http://baked-corn.tistory.com
-  - https://ehdrjsdlzzzz.github.io
+  - https://protocorn93.github.io
 - [Github](https://github.com/protocorn93)
 
 ---
